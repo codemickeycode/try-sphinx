@@ -9,7 +9,7 @@ in docs/conf.py, set path to something like:
 ```sys.path.insert(0, os.path.abspath('/home/micaela/Projects/try-sphinx/src'))```
 
 to autogenerate the docs from your code
-```sphinx-apidoc -F -o docs src/``
+```sphinx-apidoc -F -o docs src/```
 
 ```cd docs```
 
