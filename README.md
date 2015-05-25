@@ -4,7 +4,6 @@ trying out sphinx to document python code
 
 ```pip install sphinx```
 
-```
-cd docs
-make html
-```
+```cd docs```
+
+```make html```
