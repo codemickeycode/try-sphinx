@@ -21,3 +21,5 @@ sphinx-apidoc -F -o docs src/
 cd docs
 make html
 ```
+
+generated html are in docs/_build/
